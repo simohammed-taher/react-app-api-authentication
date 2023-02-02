@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Nihira",
+      "password": "admin",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "country": "usa",
+      "address": "",
+      "gender": "female"
+    },
+    {
+      "id": "ntuser",
+      "name": "Fullname",
+      "password": "ntuser",
+      "email": "email@email.com",
+      "phone": "56778889989",
+      "country": "singapore",
+      "address": "address1\naddrees2",
+      "gender": "male"
+    },
+    {
+      "id": "MOHAMMED",
+      "name": "MOHAMMED TAHER",
+      "password": "MOHAMMED",
+      "email": "simohamedtaher123@gmail.com",
+      "phone": "0619916783",
+      "country": "india",
+      "address": "Hay laayoun moubal hamedia 335 Casablanca",
+      "gender": "male"
+    },
+    {
+      "id": "simo",
+      "name": "MOHAMMED TAHER",
+      "password": "123",
+      "email": "simohamedtaher123@gmail.com",
+      "phone": "0619916783",
+      "country": "singapore",
+      "address": "Hay laayoun moubal hamedia 335 Casablanca",
+      "gender": "male"
+    }
+  ]
+}
